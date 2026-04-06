@@ -1,7 +1,7 @@
-Primer dia Big Data
+# Primer dia Big Data
 
 
-¿Que es Big DATA?
+## ¿Que es Big DATA?
 
 
 Computación tradicional vs computación distribuidas
@@ -68,7 +68,7 @@ Veracidad
 
 
 
-El Ecosistema Big Data
+## El Ecosistema Big Data
 
 
 Almacenamiento (CAPA 1)
@@ -95,10 +95,7 @@ Análisis e Ingesta (CAPA 3)
 
 - Apache Kafka
 
-
-
-
-Datos Tradicionales vs Big Data
+## Datos Tradicionales vs Big Data
 
 
 Datos Tradicionales
@@ -118,13 +115,10 @@ Big Data
 
 - Herramientas Hadoop, Spark, Kafka
 
+## Escalado Horizontal vs Vertical
 
 
-
-Escalado Horizontal vs Vertical
-
-
-Escalado Horizontal en Big Data (Horizontal Scalling)
+### Escalado Horizontal en Big Data (Horizontal Scalling)
 
 
 Se escala ampliando los nodos del cluster
@@ -136,7 +130,7 @@ Se escala ampliando los nodos del cluster
 Al principio se crea el cluster en la NUBE y luego se migra a uno propio
 
 
-Comprendiendo el escalado vertical
+### Comprendiendo el escalado vertical
 
 
 Se escala en procesamiento y en memoria.
