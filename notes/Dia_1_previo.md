@@ -136,26 +136,24 @@ Al principio se crea el cluster en la NUBE y luego se migra a uno propio
 Se escala en procesamiento y en memoria.
 
 
+## Ecosistema de Roles en Big Data Y IA
 
 
-Ecosistema de Roles en Big Data Y IA
+  ## - Responsabilidades clave y herramientas tecnológicas
 
 
-- Responsabilidades clave y herramientas tecnológicas
+  ### I. Data Engineer (Constructor de infraestructuras de Datos) Spark, Kafka
+
+  ### II. Data Scientist (Explorador de Patrones de Datos) Python, R, Spark
+
+  ### III. Data Analyst (Interprete de datos Empresariales) SQL. Power
+
+  ### IV. Big Data Architect (Estratega y Diseño de Sistemas) Hadoop , Google Cloud, AWS
+
+  ### V. AI Engineer (Creador de Sistemas de IA Avanzados) Docker, PyTorch, Kubernetes
 
 
-I. Data Engineer (Constructor de infraestructuras de Datos) Spark, Kafka
-
-II. Data Scientist (Explorador de Patrones de Datos) Python, R, Spark
-
-III. Data Analyst (Interprete de datos Empresariales) SQL. Power
-
-IV. Big Data Architect (Estratega y Diseño de Sistemas) Hadoop , Google Cloud, AWS
-
-V. AI Engineer (Creador de Sistemas de IA Avanzados) Docker, PyTorch, Kubernetes
-
-
-Big Data en la Industria
+## Big Data en la Industria
 
 
 El impacto del Big Data en los sectores más importantes de la economía:
@@ -178,7 +176,7 @@ Retail y Logistica
 - dd
 
 
-Herramientas del Stack de Big Data
+## Herramientas del Stack de Big Data
 
 
 ……
@@ -196,7 +194,7 @@ Tamaño MB a pocos GB
 
 
 
-Big Data en Finanzas y Banca
+## Big Data en Finanzas y Banca
 
 
 Detección de fraude en tiempo real
@@ -224,7 +222,7 @@ Trading algoritmico
 - …
 
 
-Big Data en Sanidad
+## Big Data en Sanidad
 
 
 Dianóstico asistido por IA
@@ -248,7 +246,7 @@ Predicción de epidemias y salud pública
 
 
 
-Big Data en Telecomunicaciones y otros sectores
+## Big Data en Telecomunicaciones y otros sectores
 
 
 Telecomunicaciones
@@ -288,7 +286,7 @@ Agricultura de precisión
 
 
 
-El Stack Tecnologico Big Data
+## El Stack Tecnologico Big Data
 
 
 01 Apache Hadoop
