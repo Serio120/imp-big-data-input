@@ -14,7 +14,7 @@
           <mxGeometry height="50" width="270" x="520" y="90" as="geometry" />
         </mxCell>
         <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Analytic Applications&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="940" y="60" as="geometry" />
+          <mxGeometry height="50" width="180" x="950" y="80" as="geometry" />
         </mxCell>
         <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=23;" value="&lt;font&gt;Information Governance, Security and Business Continuity&lt;/font&gt;" vertex="1">
           <mxGeometry height="45" width="810" x="190" y="630" as="geometry" />
