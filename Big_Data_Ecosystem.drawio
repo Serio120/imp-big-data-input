@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Pdsskri2z8k9bHQyrov-">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CC00CC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;All Data Sources&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Big Data Ecosystem&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="310" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Analytic Applications&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="540" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Information Governance, Security and Business Continuity&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="490" x="160" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Information&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ingestion and&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Operational Information&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="190" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#0050ef;fontColor=#000000;strokeColor=#001DBC;fontSize=16;" value="Streams" vertex="1">
+          <mxGeometry height="40" width="100" x="190" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#B266FF;fontSize=15;" value="&lt;div&gt;- Data integration&lt;/div&gt;&lt;div&gt;- Stream&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Processing&amp;nbsp;&lt;span style=&quot;background-color: light-dark(rgb(178, 102, 255), rgb(167, 102, 233)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Master&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="180" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="YK4G9e-Z4oc1eN_1Qv5c-10" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="" vertex="1">
+          <mxGeometry height="130" width="80" x="90" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
