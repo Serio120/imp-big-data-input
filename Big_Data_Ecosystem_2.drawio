@@ -130,6 +130,18 @@
             <mxPoint x="571.25" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oyfhsTNHxtjuHe1pq-RM-1" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontColor=#FFFFFF;strokeColor=#001DBC;fontSize=19;fontStyle=1" value="&lt;div&gt;Intelligence&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="940" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oyfhsTNHxtjuHe1pq-RM-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontColor=#FFFFFF;strokeColor=#001DBC;fontSize=19;fontStyle=1" value="&lt;div&gt;Decision&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="940" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oyfhsTNHxtjuHe1pq-RM-3" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontColor=#FFFFFF;strokeColor=#001DBC;fontSize=19;fontStyle=1" value="&lt;div&gt;Bl and&lt;/div&gt;&lt;div&gt;Predictive&lt;/div&gt;&lt;div&gt;Analytics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="940" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oyfhsTNHxtjuHe1pq-RM-4" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=none;fontColor=#FFFFFF;strokeColor=#001DBC;fontSize=19;fontStyle=1" value="&lt;div&gt;Analytic&lt;/div&gt;&lt;div&gt;Applications&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="940" y="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
