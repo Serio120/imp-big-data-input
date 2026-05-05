@@ -1,8 +1,11 @@
+Este no entra: Caso de estudio propuesto: RetailLake Analytics
+
+-----------------------------------------------------------------------------------
 Un NOTEBOOK para cada caso
 
 Caso practico 1: retailNova
 
-Caso practico 2: Benchmark de Formatos: Airline Delay & Cancellation Data
+Caso de estudio 2: Benchmark de Formatos: Airline Delay & Cancellation Data
 
-Caso practico 3: PapidX: Pipeñine JSON -> Parquet -> BI
+Case de estudio 3: PapidX: Pipeñine JSON -> Parquet -> BI
 
