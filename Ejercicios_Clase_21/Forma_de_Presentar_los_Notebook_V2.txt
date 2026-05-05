@@ -1,0 +1,8 @@
+Un NOTEBOOK para cada caso
+
+Caso practico 1: retailNova
+
+Caso practico 2: Benchmark de Formatos: Airline Delay & Cancellation Data
+
+Caso practico 3: PapidX: Pipeñine JSON -> Parquet -> BI
+
