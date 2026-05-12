@@ -895,3 +895,5 @@ Cuando tengas avances o preguntas, estaré aquí. 😊
 > BY COPILOT GITHUB 
 @Serio120
 
+> This file was edited with readme.so
+ You can help at: https://buymeacoffee.com/
